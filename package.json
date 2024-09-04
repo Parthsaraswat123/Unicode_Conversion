@@ -1,6 +1,6 @@
 {
-  "name": "unicode_covertor",
-  "version": "1.0.0",
+  "name": "unicode_convertor",
+  "version": "1.0.1",
   "description": "In this Repo , We convert Text to Unicode value and Unicode to Text value",
   "main": "index.js",
   "scripts": {
