@@ -10,7 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Parthsaraswat123/Unicode_Conversion.git"
   },
-  "author": "",
+  "keywords": ["unicode", "conversion", "text to unicode", "unicode_covertor"],
+  "author": "Parth Saraswat",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Parthsaraswat123/Unicode_Conversion/issues"
