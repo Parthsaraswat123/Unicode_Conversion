@@ -1,0 +1,19 @@
+{
+  "name": "unicode_conversion",
+  "version": "1.0.0",
+  "description": "In this Repo , We convert Text to Unicode value and Unicode to Text value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parthsaraswat123/Unicode_Conversion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parthsaraswat123/Unicode_Conversion/issues"
+  },
+  "homepage": "https://github.com/Parthsaraswat123/Unicode_Conversion#readme"
+}
