@@ -1,14 +1,14 @@
-# Unicode_Conversion
+# Unicode_Convertor
 In this Repo , We convert the Text to Unicode value and Unicode to Text value
 
 
 # How to use this package
 
-npm i unicode_conversion
+npm i unicode_convertor
 
 # Example
 
-let { toText, toUnicode } = require('unicode_conversion');
+let { toText, toUnicode } = require('unicode_convertor');
 
 toUnicode('Hello User');
 
